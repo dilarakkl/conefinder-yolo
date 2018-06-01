@@ -2,6 +2,7 @@
 Traffic Cone Finder using Alexey AB's Windows Yolo implementation
 https://github.com/AlexeyAB/darknet
 
+Clone above and build darknet.exe with the instructions given.
 
 Extract dataset.rar given in Dropbox link to the data folder here.
 Dataset is extracted from DukeCone's dataset and manually annotated. https://github.com/melfm/dukecone
